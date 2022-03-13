@@ -21,4 +21,5 @@ ___
 * [x] Score updating and displaying
 * [ ] Controlling the bird with key events
 * [ ] Collision control(currently nothing happens on collision)
--->
+-->![Screenshot at 2020-05-19 12-45-03](https://user-images.githubusercontent.com/42743629/158059510-3cb90d5b-779b-4945-9f65-c35fb50c155c.png)
+![Screenshot at 2020-05-19 12-45-14](https://user-images.githubusercontent.com/42743629/158059512-20210555-654d-443f-8a08-2701ac18484c.png)
